@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oaklandhvacco.com/sitemap.xml
